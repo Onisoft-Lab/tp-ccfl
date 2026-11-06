@@ -4,11 +4,11 @@ Tout se lance depuis 	p-ccfl/.
 
 `
 cp .env.example .env
-uv sync
-docker compose up -d   # Postgres pour plus tard, pas besoin avant l'étape 4
-uv run python etape01/exploration.py
-uv run python etape02/analyse_pandas.py
-uv run python etape03/qualite.py
+uv sync          # ou: make sync
+docker compose up -d   # Postgres pour plus tard (étape 4+), ou: make db
+uv run python etape01/exploration.py   # make etape1
+uv run python etape02/analyse_pandas.py  # make etape2
+uv run python etape03/qualite.py         # make etape3
 `
 
-Les CSV et le rapport partent dans sorties/.
+make all enchaîne les trois étapes. Les CSV et le rapport partent dans sorties/.
