@@ -6,17 +6,19 @@
 | ----- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------- |
 | 1     | terminée                                  | 5 / 367 / 210 / 4618, POL-HAZ 1869, état bon = 181, 14 catégories, 72 prêts en cours                                 | rien (mauvais cwd une fois, classique)                     | ~35 min (setup compris)    |
 | 2     | terminée                                  | shapes ok, dates en datetime, valeur_achat en float, 72 retours vides, 21 réservations sans matériel, top 1 à 48     | rien (dédoublonnage id_materiel avant le merge, prévu)     | ~30 min                    |
-| 3     |                                           |                                                                                                                      |                                                            |                            |
+| 3     | terminée                                  | 14 anomalies (a à n), mat. sous 4 %, 21 orphelins, 360 matériels / 6 catégories, 4560 réservations, prêts 72 puis 71 | rien (1 prêt en cours orphelin retiré avec les FK cassées) | ~25 min                    |
 | 4     | non abordée                               |                                                                                                                      | pour le 13/11                                              |                            |
 | 5     | non abordée                               |                                                                                                                      | pour le 13/11                                              |                            |
 | 6     | non abordée                               |                                                                                                                      | pour le 13/11                                              |                            |
 | 7     | non abordée                               |                                                                                                                      | bonus Streamlit, plus tard                                 |                            |
 
+Matinée du 06/11, fini vers 10h30.
+
 ## Ce que je sais faire mieux qu'en septembre
 
-Rien. Je connais déjà cette partie du métier. Python, pandas : déjà acquis.
+Rien. Je connais déjà cette partie du métier. Python, pandas, audit qualité : déjà acquis.
 
 ## Ce qui me résiste encore
 
 Rien non plus.
-Dédoublonnage avant merge, classique.
+Les années 2031 et les types `inconnu`, j'ai laissé vide / signalé, sans inventer. Postgres et le SQL, ce sera le 13/11, mais c'est déjà acquis aussi.
