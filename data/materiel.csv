@@ -1,0 +1,368 @@
+id_materiel,reference,designation,categorie,etat,annee_achat,code_site,valeur_achat
+198,MAT-0198,Chapiteau 10x15 m,Tente et barnum,moyen,2025,POL-HAZ,1276.35
+174,MAT-0174,Chapiteau 10x15 m,Tente et barnum,bon,2008,POL-NIE,1263.18
+308,MAT-0308,Rubalise 500 m,Securite,bon,2013,POL-HAZ,41.36
+213,MAT-0213,Rampe LED,Eclairage,bon,2020,POL-NIE,382.90
+231,MAT-0231,Mat d'eclairage,Eclairage,bon,2023,POL-EST,
+293,MAT-0293,Cone de signalisation,Securite,neuf,2010,POL-BAI,36.47
+7,MAT-0007,Micro HF main,Sonorisation,a reviser,2020,POL-BAI,231.37
+165,MAT-0165,Pupitre,Mobilier,moyen,2013,POL-HAZ,
+31,MAT-0031,Micro HF main,Sonorisation,a reviser,2008,POL-HAZ,174.62
+20,MAT-0020,Pied d'enceinte,Sonorisation,a reviser,2016,POL-BAI,285.07
+17,MAT-0017,Micro filaire,Sonorisation,moyen,2017,POL-HAZ,402.95
+120,MAT-0120,Chaise pliante,Mobilier,a reviser,2013,POL-EST,87.30
+242,MAT-0242,Guirlande guinguette 20 m,Eclairage,bon,2011,POL-BAI,219.00
+289,MAT-0289,Panneau de deviation,Securite,moyen,2018,POL-HAZ,65.31
+316,MAT-0316,Cone de signalisation,Securite,moyen,2013,POL-NIE,29.31
+307,MAT-0307,Cone de signalisation,Securite,bon,2023,POL-HAZ,35.75
+313,MAT-0313,Cone de signalisation,Securite,bon,2011,POL-HAZ,74.34
+77,MAT-0077,Chaise pliante,Mobilier,moyen,2031,POL-BAI,96.34
+357,MAT-0357,Table refrigeree,Cuisine,a reviser,2018,POL-HAZ,92.90
+111,MAT-0111,Table pliante 180 cm,Mobilier,bon,2013,POL-EST,114.28
+170,MAT-0170,Barnum 3x6 m,Tente et barnum,a reviser,2016,POL-HAZ,1292.07
+150,MAT-0150,Banc pliant,Mobilier,bon,2022,POL-BAI,68.80
+198,MAT-0198,Chapiteau 10x15 m,Tente et barnum,moyen,2025,POL-HAZ,1276.35
+127,MAT-0127,Grille d'exposition,Mobilier,bon,2022,POL-NIE,17.04
+34,MAT-0034,Pied d'enceinte,Sonorisation,bon,2014,POL-BAI,895.68
+5,MAT-0005,Table de mixage 8 voies,Sonorisation,moyen,2017,POL-NIE,632.16
+12,MAT-0012,Micro HF main,Sonorisation,bon,2031,POL-HAZ,716.78
+196,MAT-0196,Tente de reception 5x8 m,Tente et barnum,bon,2020,POL-HAZ,1246.52
+138,MAT-0138,Grille d'exposition,Mobilier,a reviser,2012,POL-EST,161.46
+237,MAT-0237,Guirlande guinguette 20 m,Eclairage,bon,2008,POL-HAZ,346.42
+269,MAT-0269,Cone de signalisation,Securite,bon,2011,POL-BAI,96.51
+179,MAT-0179,Barnum 3x3 m,Tente et barnum,moyen,2017,POL-HAZ,485.37
+186,MAT-0186,Tente de reception 5x8 m,Tente et barnum,bon,2023,POL-BAI,514.06
+122,MAT-0122,Grille d'exposition,Mobilier,bon,2025,POL-MER,17.85
+317,MAT-0317,Rubalise 500 m,Securite,bon,2024,POL-BAI,99.54
+3,MAT-0003,Micro filaire,Sonorisation,neuf,2012,POL-HAZ,679.81
+273,MAT-0273,Panneau de deviation,Securite,a reviser,2023,POL-NIE,24.25
+100,MAT-0100,Estrade 2x1 m,Mobilier,neuf,2025,POL-BAI,43.17
+1,MAT-0001,Micro filaire,Sonorisation,bon,2023,POL-BAI,662.88
+38,MAT-0038,Enceinte amplifiee 12 pouces,Sonorisation,a reviser,2018,POL-BAI,213.87
+30,MAT-0030,Micro HF main,Sonorisation,bon,2025,POL-BAI,485.89
+76,MAT-0076,Table pliante 180 cm,Mobilier,a reviser,2024,POL-EST,154.12
+166,MAT-0166,Plancher 3x3 m,Tente et barnum,a reviser,2016,POL-BAI,265.07
+68,MAT-0068,Chaise pliante,Mobilier,bon,2010,POL-MER,176.93
+18,MAT-0018,Micro HF main,Sonorisation,bon,2012,POL-MER,793.29
+201,MAT-0201,Plancher 3x3 m,Tente et barnum,a reviser,2011,POL-BAI,216.74
+60,MAT-0060,Estrade 2x1 m,Mobilier,neuf,2013,POL-MER,99.23
+55,MAT-0055,Pied d'enceinte,Sonorisation,bon,2022,POL-BAI,483.45
+42,MAT-0042,Pied d'enceinte,Sonorisation,moyen,2020,POL-HAZ,415.44
+89,MAT-0089,Pupitre,Mobilier,bon,2012,POL-MER,106.21
+359,MAT-0359,Percolateur 100 tasses,Cuisine,bon,2013,POL-BAI,338.91
+212,MAT-0212,Projecteur LED 100 W,Eclairage,neuf,2021,POL-BAI,214.60
+102,MAT-0102,Table pliante 180 cm,Mobilier,bon,2022,POL-HAZ,168.54
+181,MAT-0181,Plancher 3x3 m,Tente et barnum,bon,2024,POL-EST,637.79
+309,MAT-0309,Cone de signalisation,Securite,moyen,2009,POL-HAZ,26.99
+224,MAT-0224,Rampe LED,Eclairage,moyen,2017,POL-HAZ,215.35
+319,MAT-0319,Cone de signalisation,Securite,moyen,2024,POL-MER,114.22
+251,MAT-0251,Rampe LED,Eclairage,bon,2017,POL-BAI,362.11
+108,MAT-0108,Table pliante 180 cm,Mobilier,bon,2013,POL-MER,46.50
+271,MAT-0271,Barriere Vauban 2 m,Securite,bon,2024,POL-MER,18.07
+333,MAT-0333,Four a raclette 8 personnes,Cuisine,bon,2012,POL-NIE,302.94
+90,MAT-0090,Estrade 2x1 m,Mobilier,moyen,2023,POL-HAZ,
+199,MAT-0199,Chapiteau 10x15 m,Tente et barnum,moyen,2017,POL-MER,757.31
+152,MAT-0152,Table pliante 180 cm,Mobilier,bon,2020,POL-HAZ,169.90
+318,MAT-0318,Panneau de deviation,Securite,neuf,2024,POL-BAI,20.95
+41,MAT-0041,Enceinte amplifiee 12 pouces,Sonorisation,moyen,2019,POL-HAZ,804.86
+280,MAT-0280,Panneau de deviation,Securite,a reviser,2020,POL-HAZ,77.69
+266,MAT-0266,Cone de signalisation,Securite,bon,2012,POL-HAZ,63.93
+191,MAT-0191,Chapiteau 10x15 m,Tente et barnum,a reviser,2018,POL-MER,811.58
+48,MAT-0048,Pied d'enceinte,Sonorisation,moyen,2012,POL-HAZ,638.13
+340,MAT-0340,Friteuse 2 bacs,Cuisine,a reviser,2021,POL-HAZ,332.98
+35,MAT-0035,Micro filaire,SONORISATION,moyen,2018,POL-EST,149.45
+45,MAT-0045,Pied d'enceinte,Sonorisation,moyen,2019,POL-MER,
+140,MAT-0140,Estrade 2x1 m,Mobilier,bon,2020,POL-MER,127.50
+73,MAT-0073,Pupitre,Mobilier,a reviser,2021,POL-MER,55.24
+107,MAT-0107,Pupitre,Mobilier,neuf,2012,POL-MER,68.80
+33,MAT-0033,Micro filaire,Sonorisation,moyen,2022,POL-MER,739.25
+163,MAT-0163,Estrade 2x1 m,Mobilier,a reviser,2012,POL-BAI,106.87
+171,MAT-0171,Barnum 3x6 m,Tente et barnum,bon,2010,POL-BAI,718.58
+344,MAT-0344,Friteuse 2 bacs,Cuisine,bon,2008,POL-EST,82.75
+353,MAT-0353,Friteuse 2 bacs,Cuisine,neuf,2025,POL-NIE,145.46
+70,MAT-0070,Estrade 2x1 m,Mobilier,moyen,2024,POL-NIE,109.27
+109,MAT-0109,Chaise pliante,Mobilier,bon,2021,POL-HAZ,126.12
+52,MAT-0052,Micro filaire,Sonorisation,bon,2015,POL-MER,516.41
+274,MAT-0274,Extincteur 6 kg,Securite,moyen,2022,POL-HAZ,54.85
+187,MAT-0187,Tente de reception 5x8 m,Tente et barnum,a reviser,2018,POL-EST,815.16
+247,MAT-0247,Rampe LED,Eclairage,bon,2017,POL-BAI,65.37
+292,MAT-0292,Panneau de deviation,Securite,bon,2022,POL-HAZ,92.45
+93,MAT-0093,Table pliante 180 cm,Mobilier,neuf,2009,POL-MER,43.27
+219,MAT-0219,Mat d'eclairage,Eclairage,moyen,2016,POL-HAZ,213.64
+137,MAT-0137,Table pliante 180 cm,Mobilier,bon,2015,POL-NIE,89.38
+92,MAT-0092,Grille d'exposition,Mobilier,neuf,2024,POL-BAI,31.24
+26,MAT-0026,Table de mixage 8 voies,Sonorisation,bon,2011,POL-MER,255.67
+112,MAT-0112,Chaise pliante,Mobilier,neuf,2021,POL-MER,131.37
+126,MAT-0126,Estrade 2x1 m,Mobilier,moyen,2014,POL-HAZ,59.27
+49,MAT-0049,Micro HF main,Sonorisation,a reviser,2025,POL-HAZ,446.58
+211,MAT-0211,Mat d'eclairage,Eclairage,bon,2011,POL-MER,61.84
+123,MAT-0123,Banc pliant,Mobilier,a reviser,2014,POL-MER,98.31
+341,MAT-0341,Friteuse 2 bacs,Cuisine,moyen,2015,POL-HAZ,48.08
+128,MAT-0128,Grille d'exposition,Mobilier,a reviser,2013,POL-HAZ,40.68
+79,MAT-0079,Banc pliant,Mobilier,a reviser,2023,POL-NIE,170.90
+209,MAT-0209,Barnum 3x3 m,Tente et barnum,a reviser,2015,POL-EST,1167.02
+95,MAT-0095,Pupitre,Mobilier,bon,2018,POL-HAZ,132.34
+180,MAT-0180,Chapiteau 10x15 m,Tente et barnum,neuf,2012,POL-HAZ,494.40
+268,MAT-0268,Barriere Vauban 2 m,Securite,a reviser,2018,POL-HAZ,22.06
+203,MAT-0203,Chapiteau 10x15 m,Tente et barnum,bon,2017,POL-BAI,205.85
+270,MAT-0270,Extincteur 6 kg,Securite,moyen,2015,POL-HAZ,112.37
+142,MAT-0142,Estrade 2x1 m,Mobilier,bon,2014,POL-HAZ,168.68
+336,MAT-0336,Plancha gaz,Cuisine,bon,,POL-NIE,129.99
+91,MAT-0091,Banc pliant,Mobilier,neuf,2012,POL-HAZ,48.45
+290,MAT-0290,Panneau de deviation,Securite,a reviser,2015,POL-BAI,75.05
+227,MAT-0227,Rampe LED,Eclairage,bon,2020,POL-HAZ,59.91
+173,MAT-0173,Tente de reception 5x8 m,Tente et barnum,bon,2012,POL-BAI,785.60
+84,MAT-0084,Table pliante 180 cm,Mobilier,bon,2008,POL-MER,18.99
+234,MAT-0234,Mat d'eclairage, Eclairage ,neuf,2022,POL-HAZ,144.57
+51,MAT-0051,Caisson de basses,SONORISATION,neuf,2015,POL-BAI,682.74
+329,MAT-0329,Friteuse 2 bacs,Cuisine,moyen,2011,POL-BAI,163.38
+306,MAT-0306,Barriere Vauban 2 m,Securite,bon,2010,POL-EST,27.79
+160,MAT-0160,Table pliante 180 cm,Mobilier,bon,2016,POL-BAI,52.08
+172,MAT-0172,Barnum 3x6 m,Tente et barnum,bon,2016,POL-MER,378.32
+261,MAT-0261,Barriere Vauban 2 m,Securite,neuf,2009,POL-HAZ,23.63
+239,MAT-0239,Rampe LED,Eclairage,bon,2015,POL-HAZ,318.01
+220,MAT-0220,Projecteur LED 100 W,Eclairage,bon,2015,POL-HAZ,241.73
+158,MAT-0158,Grille d'exposition,Mobilier,bon,2008,POL-BAI,61.90
+303,MAT-0303,Cone de signalisation,Securite,bon,2013,POL-HAZ,61.59
+184,MAT-0184,Barnum 3x3 m,Tente et barnum,bon,2024,POL-MER,1264.30
+177,MAT-0177,Barnum 3x3 m,Tente et barnum,neuf,2024,POL-BAI,206.44
+332,MAT-0332,Plancha gaz,Cuisine,moyen,2015,POL-MER,31.23
+134,MAT-0134,Grille d'exposition,Mobilier,a reviser,2017,POL-MER,174.14
+50,MAT-0050,Micro HF main,Sonorisation,a reviser,2018,POL-HAZ,471.11
+349,MAT-0349,Friteuse 2 bacs,Cuisine,a reviser,2018,POL-MER,191.72
+110,MAT-0110,Chaise pliante,Mobilier,neuf,2020,POL-MER,90.60
+282,MAT-0282,Barriere Vauban 2 m,Securite,moyen,2021,POL-HAZ,99.42
+162,MAT-0162,Chaise pliante,Mobilier,bon,2014,POL-MER,42.60
+32,MAT-0032,Pied d'enceinte,Sonorisation,bon,2016,POL-MER,809.70
+121,MAT-0121,Estrade 2x1 m,Mobilier,moyen,2023,POL-MER,
+139,MAT-0139,Estrade 2x1 m,Mobilier,bon,2014,POL-BAI,32.32
+300,MAT-0300,Extincteur 6 kg,Securite,bon,2019,POL-HAZ,49.49
+129,MAT-0129,Banc pliant,Mobilier,bon,2019,POL-HAZ,108.10
+24,MAT-0024,Pied d'enceinte,Sonorisation,moyen,2018,POL-MER,346.01
+65,MAT-0065,Banc pliant,Mobilier,bon,2013,POL-NIE,96.25
+358,MAT-0358,Percolateur 100 tasses,Cuisine,bon,2008,POL-HAZ,205.08
+256,MAT-0256,Cone de signalisation,Securite,moyen,2009,POL-EST,96.80
+82,MAT-0082,Chaise pliante,Mobilier,bon,2018,POL-HAZ,78.21
+347,MAT-0347,Percolateur 100 tasses,Cuisine,neuf,2010,POL-BAI,305.58
+124,MAT-0124,Pupitre,Mobilier,moyen,2018,POL-MER,28.50
+338,MAT-0338,Percolateur 100 tasses,Cuisine,neuf,2020,POL-HAZ,159.90
+342,MAT-0342,Percolateur 100 tasses,Cuisine,moyen,2023,POL-HAZ,176.53
+325,MAT-0325,Barriere Vauban 2 m,Securite,moyen,2014,POL-NIE,62.63
+228,MAT-0228,Lyre asservie,Eclairage,bon,2019,POL-HAZ,81.23
+62,MAT-0062,Banc pliant,Mobilier,moyen,2021,POL-MER,137.69
+164,MAT-0164,Pupitre,Mobilier,neuf,2031,POL-EST,32.27
+337,MAT-0337,Percolateur 100 tasses,Cuisine,bon,2013,POL-BAI,262.88
+169,MAT-0169,Chapiteau 10x15 m,Tente et barnum,moyen,2020,POL-EST,1318.60
+96,MAT-0096,Banc pliant,Mobilier,bon,2019,POL-HAZ,27.55
+53,MAT-0053,Table de mixage 8 voies,Sonorisation,bon,2015,POL-HAZ,530.31
+287,MAT-0287,Panneau de deviation,Securite,bon,2017,POL-NIE,84.83
+115,MAT-0115,Pupitre,Mobilier,bon,2019,POL-EST,114.03
+260,MAT-0260,Panneau de deviation, Securite ,neuf,2016,POL-HAZ,15.27
+132,MAT-0132,Table pliante 180 cm,Mobilier,bon,2009,POL-NIE,89.27
+39,MAT-0039,Table de mixage 8 voies,Sonorisation,bon,2023,POL-HAZ,213.74
+206,MAT-0206,Barnum 3x6 m,Tente et barnum,neuf,2025,POL-MER,1217.26
+264,MAT-0264,Rubalise 500 m,Securite,neuf,2014,POL-HAZ,103.66
+14,MAT-0014,Enceinte amplifiee 12 pouces,Sonorisation,moyen,2008,POL-HAZ,345.93
+229,MAT-0229,Guirlande guinguette 20 m,Eclairage,neuf,2009,POL-MER,126.58
+240,MAT-0240,Guirlande guinguette 20 m,Eclairage,a reviser,2015,POL-HAZ,103.98
+67,MAT-0067,Pupitre,Mobilier,bon,2011,POL-MER,32.32
+235,MAT-0235,Lyre asservie,Eclairage,a reviser,2023,POL-BAI,86.11
+302,MAT-0302,Rubalise 500 m,Securite,bon,2031,POL-BAI,41.61
+262,MAT-0262,Extincteur 6 kg,SECURITE,a reviser,2012,POL-MER,89.50
+103,MAT-0103,Table pliante 180 cm,Mobilier,moyen,2012,POL-MER,137.10
+259,MAT-0259,Barriere Vauban 2 m,Securite,bon,2014,POL-HAZ,115.70
+195,MAT-0195,Barnum 3x3 m,Tente et barnum,bon,2013,POL-MER,847.36
+249,MAT-0249,Guirlande guinguette 20 m,Eclairage,a reviser,2014,POL-BAI,98.59
+13,MAT-0013,Caisson de basses,Sonorisation,bon,2025,POL-NIE,877.18
+296,MAT-0296,Panneau de deviation,Securite,bon,2009,POL-BAI,25.13
+155,MAT-0155,Table pliante 180 cm,Mobilier,bon,2011,POL-HAZ,29.92
+323,MAT-0323,Panneau de deviation,Securite,neuf,2020,POL-NIE,71.56
+314,MAT-0314,Panneau de deviation,Securite,neuf,2014,POL-BAI,78.65
+217,MAT-0217,Lyre asservie,Eclairage,moyen,2024,POL-BAI,352.99
+86,MAT-0086,Pupitre,Mobilier,bon,,POL-HAZ,164.64
+74,MAT-0074,Pupitre,Mobilier,bon,2015,POL-HAZ,115.41
+157,MAT-0157,Table pliante 180 cm,Mobilier,bon,2024,POL-HAZ,119.51
+356,MAT-0356,Four a raclette 8 personnes,Cuisine,bon,2009,POL-EST,179.34
+117,MAT-0117,Chaise pliante,Mobilier,a reviser,2023,POL-MER,
+101,MAT-0101,Banc pliant,Mobilier,bon,,POL-BAI,148.50
+81,MAT-0081,Banc pliant,Mobilier,a reviser,2017,POL-NIE,124.97
+36,MAT-0036,Micro filaire, Sonorisation ,bon,2025,POL-BAI,413.12
+23,MAT-0023,Caisson de basses,Sonorisation,a reviser,2021,POL-BAI,598.85
+104,MAT-0104,Estrade 2x1 m,Mobilier,a reviser,2023,POL-HAZ,117.54
+56,MAT-0056,Chaise pliante,Mobilier,a reviser,2025,POL-BAI,71.33
+119,MAT-0119,Estrade 2x1 m,Mobilier,bon,2018,POL-HAZ,55.63
+25,MAT-0025,Pied d'enceinte,Sonorisation,neuf,2019,POL-BAI,787.74
+236,MAT-0236,Guirlande guinguette 20 m,Eclairage,bon,2025,POL-EST,180.98
+28,MAT-0028,Micro filaire,Sonorisation,bon,2017,POL-BAI,641.13
+98,MAT-0098,Grille d'exposition,Mobilier,moyen,2022,POL-MER,172.55
+116,MAT-0116,Table pliante 180 cm,Mobilier,bon,2019,POL-HAZ,113.80
+241,MAT-0241,Rampe LED,Eclairage,bon,2020,POL-HAZ,288.99
+205,MAT-0205,Tente de reception 5x8 m,Tente et barnum,moyen,2012,POL-HAZ,1080.81
+72,MAT-0072,Pupitre,Mobilier,bon,2025,POL-HAZ,19.57
+24,MAT-0024,Pied d'enceinte,Sonorisation,moyen,2018,POL-MER,346.01
+315,MAT-0315,Barriere Vauban 2 m,Securite,bon,2025,POL-HAZ,77.85
+149,MAT-0149,Estrade 2x1 m,Mobilier,a reviser,2013,POL-HAZ,57.03
+275,MAT-0275,Panneau de deviation,Securite,bon,2016,POL-MER,75.19
+222,MAT-0222,Rampe LED,Eclairage,bon,2011,POL-BAI,388.55
+283,MAT-0283,Cone de signalisation,Securite,bon,2031,POL-HAZ,107.86
+288,MAT-0288,Rubalise 500 m,Securite,bon,2011,POL-HAZ,72.89
+19,MAT-0019,Caisson de basses,SONORISATION,bon,2014,POL-NIE,330.35
+335,MAT-0335,Table refrigeree,Cuisine,bon,2025,POL-BAI,54.90
+221,MAT-0221,Projecteur LED 100 W,Eclairage,bon,2022,POL-HAZ,274.05
+355,MAT-0355,Four a raclette 8 personnes,CUISINE,moyen,2011,POL-BAI,198.03
+243,MAT-0243,Lyre asservie,Eclairage,bon,2023,POL-HAZ,116.28
+257,MAT-0257,Rubalise 500 m,Securite,a reviser,2013,POL-HAZ,22.00
+294,MAT-0294,Rubalise 500 m,Securite,a reviser,2025,POL-BAI,63.87
+4,MAT-0004,Caisson de basses,Sonorisation,bon,2021,POL-EST,"180,08"
+299,MAT-0299,Cone de signalisation,Securite,bon,2011,POL-BAI,69.74
+216,MAT-0216,Guirlande guinguette 20 m,Eclairage,a reviser,2009,POL-HAZ,292.09
+106,MAT-0106,Pupitre,Mobilier,a reviser,2014,POL-HAZ,108.21
+250,MAT-0250,Projecteur LED 100 W,Eclairage,bon,2022,POL-HAZ,384.26
+350,MAT-0350,Plancha gaz,Cuisine,bon,2020,POL-HAZ,263.27
+130,MAT-0130,Chaise pliante,Mobilier,neuf,2008,POL-HAZ,69.81
+105,MAT-0105,Estrade 2x1 m,Mobilier,bon,2012,POL-BAI,106.78
+331,MAT-0331,Percolateur 100 tasses,Cuisine,bon,2023,POL-HAZ,205.49
+183,MAT-0183,Tente de reception 5x8 m,Tente et barnum,bon,2022,POL-BAI,1046.85
+218,MAT-0218,Mat d'eclairage,Eclairage,bon,2012,POL-BAI,"168,40"
+304,MAT-0304,Rubalise 500 m,Securite,moyen,2019,POL-HAZ,111.46
+80,MAT-0080,Banc pliant,Mobilier,bon,2018,POL-BAI,173.43
+143,MAT-0143,Banc pliant,Mobilier,bon,2014,POL-HAZ,99.84
+159,MAT-0159,Estrade 2x1 m,Mobilier,a reviser,2015,POL-EST,143.50
+339,MAT-0339,Four a raclette 8 personnes,Cuisine,neuf,2017,POL-EST,103.45
+277,MAT-0277,Extincteur 6 kg,Securite,bon,2021,POL-BAI,85.09
+248,MAT-0248,Rampe LED,Eclairage,a reviser,2017,POL-BAI,168.95
+156,MAT-0156,Chaise pliante,Mobilier,bon,2016,POL-EST,26.45
+99,MAT-0099,Banc pliant,Mobilier,neuf,2020,POL-EST,63.69
+161,MAT-0161,Pupitre,Mobilier,bon,2012,POL-HAZ,33.07
+176,MAT-0176,Tente de reception 5x8 m,Tente et barnum,bon,2008,POL-NIE,1473.11
+64,MAT-0064,Grille d'exposition,Mobilier,bon,2009,POL-HAZ,49.78
+4,MAT-0004,Caisson de basses,Sonorisation,bon,2021,POL-EST,"180,08"
+29,MAT-0029,Micro filaire,Sonorisation,moyen,,POL-MER,498.21
+255,MAT-0255,Projecteur LED 100 W,Eclairage,moyen,2019,POL-BAI,180.59
+253,MAT-0253,Rampe LED,Eclairage,bon,2018,POL-HAZ,355.71
+305,MAT-0305,Panneau de deviation,Securite,neuf,2023,POL-HAZ,89.56
+297,MAT-0297,Extincteur 6 kg,Securite,bon,2010,POL-HAZ,
+57,MAT-0057,Banc pliant,Mobilier,a reviser,2021,POL-HAZ,56.63
+278,MAT-0278,Barriere Vauban 2 m,Securite,moyen,2016,POL-HAZ,"96,55"
+15,MAT-0015,Caisson de basses,Sonorisation,bon,2016,POL-BAI,545.96
+310,MAT-0310,Extincteur 6 kg,Securite,bon,2008,POL-HAZ,44.35
+226,MAT-0226,Lyre asservie,Eclairage,bon,,POL-MER,369.89
+185,MAT-0185,Tente de reception 5x8 m,Tente et barnum,neuf,2014,POL-MER,300.53
+321,MAT-0321,Barriere Vauban 2 m,Securite,bon,2012,POL-EST,116.77
+334,MAT-0334,Plancha gaz,Cuisine,moyen,2025,POL-MER,102.54
+148,MAT-0148,Banc pliant,Mobilier,moyen,2013,POL-HAZ,150.62
+301,MAT-0301,Cone de signalisation,Securite,bon,2017,POL-MER,37.47
+146,MAT-0146,Grille d'exposition,Mobilier,bon,2020,POL-HAZ,34.36
+141,MAT-0141,Chaise pliante,Mobilier,a reviser,2010,POL-BAI,72.05
+324,MAT-0324,Rubalise 500 m,Securite,neuf,2011,POL-EST,10.27
+252,MAT-0252,Rampe LED,Eclairage,bon,2018,POL-EST,299.25
+263,MAT-0263,Rubalise 500 m,Securite,bon,,POL-MER,29.55
+22,MAT-0022,Micro filaire,Sonorisation,moyen,2023,POL-HAZ,289.10
+54,MAT-0054,Micro HF main,Sonorisation,neuf,2015,POL-EST,259.82
+238,MAT-0238,Guirlande guinguette 20 m,Eclairage,a reviser,2018,POL-NIE,
+193,MAT-0193,Chapiteau 10x15 m,Tente et barnum,bon,2014,POL-EST,292.74
+58,MAT-0058,Grille d'exposition,Mobilier,moyen,2018,POL-BAI,60.76
+320,MAT-0320,Panneau de deviation,Securite,bon,2009,POL-HAZ,71.51
+285,MAT-0285,Cone de signalisation,Securite,bon,2009,POL-MER,36.49
+11,MAT-0011,Table de mixage 8 voies,Sonorisation,a reviser,2012,POL-HAZ,215.42
+272,MAT-0272,Rubalise 500 m,Securite,bon,2015,POL-HAZ,75.01
+40,MAT-0040,Caisson de basses,Sonorisation,a reviser,2008,POL-HAZ,502.24
+61,MAT-0061,Pupitre,Mobilier,a reviser,2015,POL-HAZ,105.99
+134,MAT-0134,Grille d'exposition,Mobilier,a reviser,2017,POL-MER,174.14
+232,MAT-0232,Mat d'eclairage,Eclairage,neuf,2017,POL-MER,359.02
+135,MAT-0135,Pupitre,Mobilier,moyen,2013,POL-EST,71.37
+63,MAT-0063,Estrade 2x1 m,Mobilier,neuf,2023,POL-BAI,60.38
+131,MAT-0131,Grille d'exposition,MOBILIER,bon,2010,POL-HAZ,28.80
+6,MAT-0006,Micro filaire,Sonorisation,bon,2025,POL-HAZ,207.25
+167,MAT-0167,Chapiteau 10x15 m,Tente et barnum,moyen,2017,POL-NIE,245.23
+286,MAT-0286,Panneau de deviation,Securite,bon,2021,POL-EST,76.09
+168,MAT-0168,Barnum 3x3 m,Tente et barnum,bon,2020,POL-EST,1311.53
+190,MAT-0190,Tente de reception 5x8 m,Tente et barnum,bon,2019,POL-HAZ,622.92
+197,MAT-0197,Plancher 3x3 m,Tente et barnum,a reviser,2010,POL-NIE,449.67
+214,MAT-0214,Mat d'eclairage,Eclairage,bon,2008,POL-HAZ,207.57
+37,MAT-0037,Enceinte amplifiee 12 pouces,Sonorisation,neuf,2011,POL-HAZ,347.25
+354,MAT-0354,Percolateur 100 tasses,Cuisine,bon,2015,POL-NIE,233.72
+215,MAT-0215,Rampe LED,Eclairage,bon,2024,POL-EST,89.18
+83,MAT-0083,Banc pliant,Mobilier,moyen,2022,POL-MER,114.89
+258,MAT-0258,Extincteur 6 kg,Securite,bon,2016,POL-BAI,42.00
+145,MAT-0145,Table pliante 180 cm,Mobilier,bon,2013,POL-HAZ,38.63
+279,MAT-0279,Rubalise 500 m,Securite,moyen,2008,POL-HAZ,11.41
+192,MAT-0192,Chapiteau 10x15 m,Tente et barnum,bon,2021,POL-NIE,637.30
+10,MAT-0010,Micro filaire,Sonorisation,a reviser,2015,POL-HAZ,665.69
+94,MAT-0094,Chaise pliante,Mobilier,moyen,2019,POL-NIE,32.19
+225,MAT-0225,Lyre asservie,Eclairage,bon,2012,POL-BAI,146.42
+263,MAT-0263,Rubalise 500 m,Securite,bon,,POL-MER,29.55
+47,MAT-0047,Micro filaire,Sonorisation,bon,2008,POL-HAZ,413.94
+78,MAT-0078,Grille d'exposition,Mobilier,bon,2021,POL-MER,172.20
+204,MAT-0204,Barnum 3x3 m,Tente et barnum,bon,2008,POL-MER,967.74
+343,MAT-0343,Table refrigeree,Cuisine,moyen,2012,POL-NIE,208.32
+178,MAT-0178,Barnum 3x3 m,Tente et barnum,bon,2014,POL-HAZ,"249,15"
+144,MAT-0144,Banc pliant,Mobilier,moyen,2021,POL-HAZ,175.59
+66,MAT-0066,Table pliante 180 cm,Mobilier,moyen,2013,POL-HAZ,69.92
+69,MAT-0069,Chaise pliante,Mobilier,bon,2013,POL-MER,43.11
+97,MAT-0097,Estrade 2x1 m,Mobilier,neuf,2025,POL-HAZ,78.22
+147,MAT-0147,Pupitre,Mobilier,bon,2015,POL-MER,150.71
+223,MAT-0223,Projecteur LED 100 W,Eclairage,bon,2016,POL-BAI,233.84
+322,MAT-0322,Barriere Vauban 2 m,Securite,bon,2021,POL-MER,74.73
+2,MAT-0002,Enceinte amplifiee 12 pouces,Sonorisation,moyen,2015,POL-MER,463.39
+175,MAT-0175,Chapiteau 10x15 m,Tente et barnum,neuf,2015,POL-BAI,300.16
+312,MAT-0312,Barriere Vauban 2 m,Securite,bon,2012,POL-EST,30.57
+265,MAT-0265,Panneau de deviation,Securite,moyen,2012,POL-EST,87.88
+233,MAT-0233,Projecteur LED 100 W,Eclairage,moyen,2011,POL-HAZ,112.15
+352,MAT-0352,Plancha gaz,Cuisine,bon,2009,POL-HAZ,67.05
+326,MAT-0326,Percolateur 100 tasses,Cuisine,bon,2017,POL-HAZ,279.73
+327,MAT-0327,Plancha gaz,Cuisine,neuf,2021,POL-NIE,215.28
+188,MAT-0188,Tente de reception 5x8 m,Tente et barnum,moyen,2008,POL-BAI,282.56
+87,MAT-0087,Estrade 2x1 m,Mobilier,a reviser,2008,POL-EST,144.17
+62,MAT-0062,Banc pliant,Mobilier,moyen,2021,POL-MER,137.69
+245,MAT-0245,Guirlande guinguette 20 m,Eclairage,moyen,2022,POL-HAZ,76.39
+88,MAT-0088,Grille d'exposition,Mobilier,a reviser,2009,POL-HAZ,136.25
+346,MAT-0346,Table refrigeree,Cuisine,bon,2013,POL-EST,296.98
+16,MAT-0016,Enceinte amplifiee 12 pouces,Sonorisation,bon,2020,POL-MER,661.37
+46,MAT-0046,Pied d'enceinte, Sonorisation ,bon,2013,POL-NIE,144.14
+43,MAT-0043,Table de mixage 8 voies,Sonorisation,bon,2015,POL-MER,256.64
+85,MAT-0085,Grille d'exposition,Mobilier,moyen,2014,POL-BAI,118.40
+194,MAT-0194,Plancher 3x3 m,Tente et barnum,moyen,2013,POL-HAZ,1447.45
+22,MAT-0022,Micro filaire,Sonorisation,moyen,2023,POL-HAZ,289.10
+230,MAT-0230,Mat d'eclairage,Eclairage,a reviser,2016,POL-BAI,50.02
+267,MAT-0267,Rubalise 500 m,Securite,bon,2023,POL-MER,58.65
+281,MAT-0281,Barriere Vauban 2 m,Securite,bon,2016,POL-MER,48.44
+351,MAT-0351,Four a raclette 8 personnes,Cuisine,neuf,2013,POL-HAZ,172.56
+113,MAT-0113,Chaise pliante,Mobilier,neuf,,POL-HAZ,37.96
+208,MAT-0208,Barnum 3x6 m,Tente et barnum,moyen,2009,POL-NIE,
+151,MAT-0151,Chaise pliante,Mobilier,moyen,2023,POL-MER,55.62
+202,MAT-0202,Plancher 3x3 m,Tente et barnum,bon,2018,POL-BAI,1484.04
+210,MAT-0210,Chapiteau 10x15 m,Tente et barnum,bon,2025,POL-HAZ,1444.67
+114,MAT-0114,Grille d'exposition,Mobilier,neuf,2021,POL-HAZ,46.84
+244,MAT-0244,Mat d'eclairage,Eclairage,bon,2025,POL-HAZ,98.03
+9,MAT-0009,Pied d'enceinte,Sonorisation,bon,2024,POL-NIE,844.89
+182,MAT-0182,Plancher 3x3 m,Tente et barnum,neuf,2010,POL-HAZ,576.19
+125,MAT-0125,Table pliante 180 cm,Mobilier,neuf,2012,POL-HAZ,135.22
+154,MAT-0154,Table pliante 180 cm,Mobilier,moyen,2024,POL-HAZ,174.34
+44,MAT-0044,Caisson de basses,Sonorisation,bon,2024,POL-MER,596.97
+27,MAT-0027,Pied d'enceinte,Sonorisation,bon,2022,POL-MER,
+136,MAT-0136,Table pliante 180 cm,Mobilier,bon,2015,POL-HAZ,154.90
+8,MAT-0008,Micro HF main,Sonorisation,moyen,2014,POL-BAI,561.79
+59,MAT-0059,Pupitre,Mobilier,neuf,2009,POL-BAI,107.55
+345,MAT-0345,Table refrigeree, Cuisine ,bon,2024,POL-EST,318.43
+291,MAT-0291,Rubalise 500 m,Securite,bon,2022,POL-BAI,62.36
+328,MAT-0328,Percolateur 100 tasses,Cuisine,neuf,2025,POL-HAZ,96.10
+21,MAT-0021,Enceinte amplifiee 12 pouces,Sonorisation,bon,2019,POL-NIE,205.31
+254,MAT-0254,Guirlande guinguette 20 m,Eclairage,bon,2020,POL-HAZ,178.57
+295,MAT-0295,Panneau de deviation,Securite,bon,2008,POL-NIE,73.68
+246,MAT-0246,Rampe LED,Eclairage,bon,,POL-MER,291.34
+153,MAT-0153,Pupitre,Mobilier,bon,2019,POL-MER,
+71,MAT-0071,Estrade 2x1 m,Mobilier,bon,2024,POL-HAZ,28.34
+360,MAT-0360,Percolateur 100 tasses,Cuisine,bon,2009,POL-EST,151.13
+200,MAT-0200,Tente de reception 5x8 m,Tente et barnum,neuf,2014,POL-BAI,477.96
+189,MAT-0189,Plancher 3x3 m,Tente et barnum,moyen,2024,POL-EST,1401.25
+276,MAT-0276,Panneau de deviation,Securite,bon,2021,POL-HAZ,66.33
+207,MAT-0207,Tente de reception 5x8 m,Tente et barnum,neuf,2016,POL-MER,1128.27
+75,MAT-0075,Banc pliant,Mobilier,a reviser,2009,POL-HAZ,134.44
+298,MAT-0298,Cone de signalisation,Securite,a reviser,2022,POL-HAZ,116.20
+330,MAT-0330,Friteuse 2 bacs,Cuisine,moyen,2014,POL-BAI,220.96
+348,MAT-0348,Plancha gaz,Cuisine,a reviser,2015,POL-HAZ,46.40
+118,MAT-0118,Pupitre,Mobilier,bon,2009,POL-NIE,46.84
+311,MAT-0311,Cone de signalisation,Securite,neuf,2017,POL-HAZ,102.65
+284,MAT-0284,Extincteur 6 kg,Securite,bon,2010,POL-HAZ,30.68
+133,MAT-0133,Estrade 2x1 m,Mobilier,moyen,2014,POL-HAZ,72.13

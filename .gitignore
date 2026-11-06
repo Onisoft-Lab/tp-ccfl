@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Env / secrets
+.env
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Divers
+*.log
+.ipynb_checkpoints/

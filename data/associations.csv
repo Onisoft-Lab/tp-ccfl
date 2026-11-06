@@ -1,0 +1,211 @@
+id_association,nom,type_association,commune,code_postal,date_convention,code_site,convention_active
+1,Jeunesse de la Becque 1,sociale,Borre,,2023-05-11,POL-HAZ,oui
+2,Club du Mont 2,culturelle,Strazeele,59270,2021-05-10,POL-NIE,oui
+3,Comite des fetes des Flandres 3,sociale,Morbecque,59190,2019-01-04,POL-MER,oui
+4,Amicale de l'Yser 4,sportive,Caestre,59190,2024-01-12,POL-MER,oui
+5,Union de la Place 5,scolaire,Borre,59190,2025-12-13,POL-NIE,oui
+6,Entente de la Becque 6,sociale,Morbecque,59190,2020-09-02,POL-HAZ,oui
+7,Collectif de la Lys 7,culturelle,Bailleul,59270,2022-05-13,POL-MER,oui
+8,Union des Houblons 8,sportive,Merville,59660,2020-12-21,POL-EST,oui
+9,Foyer rural du Canal 9,scolaire,Merville,59660,2022-08-24,POL-MER,oui
+10,Harmonie de la Lys 10,festive,Hazebrouck,59190,2021-02-28,POL-MER,non
+11,Comite des fetes des Flandres 11,sportive,Hazebrouck,59190,2020-06-05,POL-HAZ,oui
+12,Cercle du Mont 12,sportive,Borre,59190,2021-06-18,POL-HAZ,oui
+13,Union du Beffroi 13,sportive,Merville,59660,2022-12-08,POL-HAZ,oui
+14,Jeunesse du Beffroi 14,scolaire,Borre,59190,2022-10-23,POL-HAZ,non
+15,Cercle du Vieux-Bourg 15,sociale,Hondeghem,59190,2021-02-25,POL-BAI,oui
+16,Cercle des Moulins 16,sociale,Strazeele,59270,2026-04-13,POL-HAZ,oui
+17,Club du Beffroi 17,scolaire,Hondeghem,59190,2024-03-08,POL-MER,oui
+18,Comite des fetes du Vieux-Bourg 18,sportive,Hondeghem,59190,2019-06-11,POL-HAZ,oui
+19,Harmonie des Remparts 19,sportive,Estaires,59940,26/07/2020,POL-HAZ,non
+20,Harmonie des Houblons 20,scolaire,Hazebrouck,,2025-04-22,POL-HAZ,oui
+21,Foyer rural du Canal 21,scolaire,Morbecque,59190,2025-09-04,POL-HAZ,oui
+22,Association de la Becque 22,culturelle,Steenvoorde,59114,2026-03-09,POL-MER,oui
+23,Jeunesse du Vieux-Bourg 23,scolaire,Merville,59660,2023-02-25,POL-HAZ,oui
+24,Les Amis des Moulins 24,scolaire,Strazeele,59270,2026-04-11,POL-EST,oui
+25,Les Amis de la Place 25,inconnu,Hondeghem,59190,2025-06-19,POL-BAI,oui
+26,Collectif des Houblons 26,culturelle,Bailleul,59270,2020-06-11,POL-HAZ,oui
+27,Comite des fetes de l'Yser 27,culturelle,Nieppe,59850,2019-03-12,POL-EST,non
+28,Association de la Becque 28,sportive,Borre,59190,2019-05-27,POL-HAZ,oui
+29,Entente du Vieux-Bourg 29,sportive,Morbecque,59190,2026-05-06,POL-HAZ,non
+30,Jeunesse du Canal 30,sportive,Steenvoorde,59114,2021-01-03,POL-HAZ,oui
+31,Foyer rural du Vieux-Bourg 31,sociale,Nieppe,59850,2024-07-11,POL-BAI,oui
+32,Harmonie des Moulins 32,culturelle,Strazeele,59270,2019-03-20,POL-HAZ,oui
+33,Foyer rural du Vieux-Bourg 33,sportive,Caestre,59190,2022-02-14,POL-HAZ,oui
+34,Cercle des Houblons 34,culturelle,Morbecque,59190,2024-10-12,POL-EST,oui
+35,Harmonie des Flandres 35,scolaire,Borre,59190,2020-10-03,POL-MER,oui
+36,Collectif de la Place 36,sociale,Caestre,59190,2024-08-05,POL-HAZ,oui
+37,Amicale des Remparts 37,festive,Merville,59660,2024-09-23,POL-MER,non
+38,Foyer rural des Houblons 38,sportive,Estaires,59940,2019-09-13,POL-HAZ,non
+39,Collectif du Beffroi 39,sportive,Nieppe,59850,2019-11-17,POL-BAI,non
+40,Les Amis des Flandres 40,scolaire,Vieux-Berquin,59232,2019-09-04,POL-HAZ,oui
+41,Cercle des Flandres 41,culturelle,Caestre,59190,2020-03-15,POL-HAZ,oui
+42,Collectif des Remparts 42,culturelle,Caestre,59190,2024-02-21,POL-BAI,oui
+43,Harmonie de l'Yser 43,sportive,Strazeele,,2021-07-07,POL-HAZ,non
+44,Harmonie de la Becque 44,sportive,Vieux-Berquin,59232,14/03/2022,POL-HAZ,non
+45,Association du Vieux-Bourg 45,sportive,Borre,,2025-10-09,POL-NIE,oui
+46,Collectif de la Becque 46,sportive,Hondeghem,59190,2019-08-01,POL-HAZ,oui
+47,Cercle de la Place 47,sociale,Estaires,59940,2021-05-30,POL-HAZ,oui
+48,Union du Canal 48,scolaire,Caestre,59190,2019-09-19,POL-BAI,oui
+49,Comite des fetes des Moulins 49,sociale,Nieppe,59850,2024-03-20,POL-BAI,oui
+50,Les Amis des Remparts 50,festive,Estaires,59940,2020-08-14,POL-MER,non
+51,Foyer rural de la Becque 51,culturelle,Merville,59660,2024-02-13,POL-HAZ,oui
+52,Harmonie de la Becque 52,culturelle,Hondeghem,59190,2025-12-05,POL-HAZ,non
+53,Cercle de la Lys 53,culturelle,Vieux-Berquin,59232,2019-01-15,POL-MER,oui
+54,Union de la Becque 54,sportive,Bailleul,59270,2023-12-09,POL-BAI,non
+55,Entente des Flandres 55,sportive,Merville,59660,2025-03-13,POL-EST,oui
+56,Les Amis des Remparts 56,scolaire,Hazebrouck,59190,2019-09-21,POL-HAZ,non
+57,Jeunesse des Houblons 57,inconnu,Hazebrouck,59190,2021-02-20,POL-HAZ,oui
+58,Club des Moulins 58,scolaire,Morbecque,59190,2022-12-08,POL-NIE,oui
+59,Jeunesse de la Lys 59,scolaire,Caestre,59190,2021-08-30,POL-EST,oui
+60,Les Amis des Houblons 60,sportive,Merville,59660,2024-10-06,POL-EST,oui
+61,Union de la Becque 61,culturelle,Caestre,59190,2021-06-01,POL-EST,oui
+62,Comite des fetes de la Place 62,sportive,Merville,59660,2021-01-10,POL-BAI,oui
+63,Association du Mont 63,culturelle,Caestre,59190,2020-08-05,POL-EST,oui
+64,Cercle de l'Yser 64,inconnu,Steenvoorde,59114,2023-12-30,POL-HAZ,oui
+65,Entente des Moulins 65,culturelle,Vieux-Berquin,59232,2025-06-08,POL-BAI,oui
+66,Les Amis du Mont 66,culturelle,Hondeghem,59190,2023-02-04,POL-HAZ,oui
+67,Foyer rural des Remparts 67,sportive,Caestre,59190,2021-03-16,POL-EST,oui
+68,Jeunesse de la Becque 68,culturelle,Hazebrouck,59190,2023-10-13,POL-BAI,non
+69,Association des Moulins 69,culturelle,Strazeele,59270,2019-07-11,POL-MER,oui
+70,Cercle de la Becque 70,culturelle,Hondeghem,,2025-09-06,POL-HAZ,non
+71,Jeunesse des Flandres 71,culturelle,Merville,59660,2022-03-22,POL-HAZ,oui
+72,Association de l'Yser 72,sociale,Borre,59190,2023-12-08,POL-MER,oui
+73,Amicale des Remparts 73,sportive,Borre,59190,2023-07-03,POL-HAZ,non
+74,Foyer rural du Beffroi 74,culturelle,Caestre,59190,2020-01-10,POL-BAI,oui
+75,Union de la Place 75,culturelle,Bailleul,59270,2025-12-23,POL-NIE,non
+76,Comite des fetes des Moulins 76,festive,Nieppe,59850,2023-09-24,POL-BAI,oui
+77,Association du Mont 77,sportive,Merville,,2024-02-22,POL-BAI,oui
+78,Union de la Place 78,sportive,Strazeele,59270,2024-09-24,POL-EST,oui
+79,Jeunesse des Remparts 79,festive,Vieux-Berquin,59232,2022-10-04,POL-BAI,oui
+80,Comite des fetes du Vieux-Bourg 80,inconnu,Bailleul,59270,2019-07-21,POL-BAI,oui
+81,Union de l'Yser 81,sportive,Vieux-Berquin,59232,2023-06-18,POL-MER,oui
+82,Jeunesse des Houblons 82,scolaire,Borre,59190,2023-09-24,POL-HAZ,non
+83,Amicale du Mont 83,festive,Strazeele,59270,2023-08-10,POL-HAZ,oui
+84,Union du Mont 84,sportive,Hazebrouck,59190,2024-02-18,POL-BAI,oui
+85,Association de l'Yser 85,sportive,Strazeele,59270,2021-10-02,POL-HAZ,oui
+86,Union des Moulins 86,sociale,Vieux-Berquin,59232,2022-11-09,POL-MER,oui
+87,Jeunesse de la Becque 87,sportive,Hazebrouck,59190,2021-08-30,POL-HAZ,oui
+88,Cercle des Moulins 88,culturelle,Merville,,2022-03-05,POL-EST,oui
+89,Entente des Remparts 89,culturelle,Caestre,59190,2025-03-22,POL-HAZ,oui
+90,Jeunesse de l'Yser 90,sportive,Bailleul,59270,2022-10-25,POL-HAZ,oui
+91,Entente des Remparts 91,sportive,Morbecque,59190,2021-11-09,POL-EST,oui
+92,Les Amis de la Lys 92,culturelle,Hondeghem,59190,2023-10-27,POL-HAZ,oui
+93,Association du Beffroi 93,inconnu,Borre,59190,2024-02-03,POL-HAZ,oui
+94,Les Amis des Flandres 94,sociale,Vieux-Berquin,59232,2023-11-19,POL-MER,non
+95,Union des Remparts 95,scolaire,Morbecque,59190,2024-06-03,POL-BAI,oui
+96,Union de la Becque 96,sportive,Borre,59190,2019-02-01,POL-HAZ,oui
+97,Foyer rural des Houblons 97,sportive,Steenvoorde,59114,2022-11-24,POL-MER,non
+98,Les Amis des Flandres 98,culturelle,Hazebrouck,59190,2021-05-21,POL-NIE,oui
+99,Cercle du Mont 99,culturelle,Vieux-Berquin,59232,2019-08-07,POL-BAI,oui
+100,Harmonie des Remparts 100,festive,Caestre,59190,2023-04-01,POL-MER,oui
+101,Harmonie de l'Yser 101,sociale,Merville,59660,2024-09-16,POL-BAI,non
+102,Association du Vieux-Bourg 102,sociale,Estaires,59940,2026-04-21,POL-MER,oui
+103,Association des Flandres 103,culturelle,Borre,59190,2025-03-23,POL-EST,oui
+104,Foyer rural du Vieux-Bourg 104,culturelle,Hondeghem,59190,2025-04-19,POL-MER,oui
+105,Comite des fetes de l'Yser 105,festive,Caestre,59190,2023-01-15,POL-MER,non
+106,Union de l'Yser 106,sociale,Caestre,59190,2024-05-22,POL-BAI,oui
+107,Jeunesse des Flandres 107,festive,Bailleul,59270,2026-03-10,POL-HAZ,non
+108,Amicale de la Lys 108,sociale,Morbecque,59190,2019-10-25,POL-HAZ,oui
+109,Amicale des Moulins 109,sportive,Hazebrouck,59190,2021-01-29,POL-EST,oui
+110,Union des Flandres 110,culturelle,Vieux-Berquin,59232,2019-11-04,POL-HAZ,non
+111,Foyer rural du Vieux-Bourg 111,festive,Hondeghem,59190,2024-03-02,POL-NIE,oui
+112,Cercle des Houblons 112,culturelle,Steenvoorde,59114,2019-08-07,POL-HAZ,oui
+113,Harmonie des Flandres 113,sociale,Nieppe,59850,2022-12-11,POL-BAI,oui
+114,Association des Remparts 114,festive,Borre,59190,2024-02-25,POL-BAI,oui
+115,Union de la Place 115,sportive,Morbecque,59190,2023-04-17,POL-BAI,oui
+116,Association de la Becque 116,culturelle,Strazeele,59270,2022-08-07,POL-HAZ,oui
+117,Union de l'Yser 117,festive,Morbecque,59190,2021-05-18,POL-HAZ,non
+118,Jeunesse du Mont 118,sportive,Steenvoorde,59114,2021-11-05,POL-MER,oui
+119,Association de la Place 119,sportive,Nieppe,59850,2025-02-08,POL-EST,oui
+120,Entente de la Lys 120,sociale,Hazebrouck,59190,2021-03-15,POL-BAI,oui
+121,Club des Flandres 121,sportive,Borre,59190,2024-06-27,POL-MER,non
+122,Union de la Becque 122,festive,Hazebrouck,,2020-08-15,POL-EST,non
+123,Les Amis de l'Yser 123,festive,Borre,59190,2021-09-28,POL-HAZ,non
+124,Harmonie du Mont 124,scolaire,Hazebrouck,59190,2020-11-14,POL-BAI,non
+125,Association des Flandres 125,sportive,Borre,59190,2025-09-18,POL-MER,oui
+126,Club du Canal 126,festive,Caestre,59190,2020-09-16,POL-HAZ,oui
+127,Collectif du Vieux-Bourg 127,sportive,Bailleul,59270,2023-11-10,POL-NIE,non
+128,Cercle de la Lys 128,sportive,Strazeele,59270,2023-10-30,POL-HAZ,oui
+129,Cercle des Flandres 129,culturelle,Merville,59660,2021-11-11,POL-NIE,non
+130,Union des Remparts 130,culturelle,Borre,59190,2023-02-20,POL-MER,oui
+131,Club des Houblons 131,sociale,Estaires,59940,2020-07-14,POL-MER,oui
+132,Union de l'Yser 132,scolaire,Vieux-Berquin,59232,2020-05-23,POL-MER,oui
+133,Entente du Canal 133,culturelle,Hondeghem,59190,2019-05-22,POL-MER,oui
+134,Cercle de l'Yser 134,scolaire,Nieppe,59850,2025-01-04,POL-BAI,oui
+135,Jeunesse des Flandres 135,culturelle,Vieux-Berquin,59232,2019-01-25,POL-HAZ,oui
+136,Cercle de la Lys 136,scolaire,Caestre,59190,14/12/2024,POL-HAZ,oui
+137,Association de la Place 137,sociale,Morbecque,59190,2020-07-29,POL-MER,non
+138,Amicale de la Becque 138,sociale,Steenvoorde,59114,2021-01-12,POL-HAZ,oui
+139,Comite des fetes des Flandres 139,sociale,Estaires,59940,2025-01-16,POL-MER,oui
+140,Foyer rural du Canal 140,scolaire,Nieppe,59850,2026-04-08,POL-BAI,non
+141,Comite des fetes de l'Yser 141,culturelle,Nieppe,59850,2022-01-10,POL-HAZ,oui
+142,Union du Mont 142,culturelle,Strazeele,59270,2026-05-12,POL-MER,non
+143,Association du Mont 143,sociale,Borre,59190,2023-02-08,POL-MER,non
+144,Foyer rural des Flandres 144,sportive,Morbecque,59190,2025-08-30,POL-HAZ,oui
+145,Foyer rural du Mont 145,sportive,Hondeghem,59190,2019-09-19,POL-HAZ,oui
+146,Association de l'Yser 146,culturelle,Merville,59660,2025-08-05,POL-HAZ,oui
+147,Les Amis des Remparts 147,sportive,Hazebrouck,59190,31/03/2021,POL-EST,oui
+148,Foyer rural du Beffroi 148,sociale,Steenvoorde,59114,17/08/2025,POL-BAI,oui
+149,Amicale de la Place 149,sociale,Strazeele,59270,2022-02-24,POL-HAZ,non
+150,Club du Mont 150,culturelle,Bailleul,59270,2021-06-15,POL-HAZ,oui
+151,Comite des fetes du Beffroi 151,festive,Morbecque,59190,2022-09-19,POL-MER,oui
+152,Foyer rural des Remparts 152,sociale,Steenvoorde,59114,2021-08-27,POL-MER,non
+153,Les Amis de la Becque 153,culturelle,Steenvoorde,59114,2024-12-08,POL-MER,non
+154,Union du Canal 154,sportive,Vieux-Berquin,59232,2022-04-18,POL-BAI,oui
+155,Les Amis du Beffroi 155,sportive,Bailleul,59270,2021-12-19,POL-MER,oui
+156,Cercle de l'Yser 156,festive,Borre,59190,2024-04-28,POL-EST,non
+157,Entente de la Lys 157,festive,Merville,59660,2020-05-12,POL-HAZ,oui
+158,Amicale des Moulins 158,culturelle,Estaires,59940,2025-05-17,POL-HAZ,oui
+159,Collectif des Remparts 159,sportive,Morbecque,59190,2020-10-16,POL-HAZ,oui
+160,Entente des Flandres 160,festive,Hondeghem,59190,2019-10-26,POL-BAI,oui
+161,Comite des fetes de l'Yser 161,sportive,Bailleul,59270,2022-11-20,POL-HAZ,oui
+162,Association des Flandres 162,culturelle,Hondeghem,59190,2019-03-10,POL-BAI,oui
+163,Comite des fetes du Vieux-Bourg 163,culturelle,Bailleul,59270,2022-05-26,POL-BAI,oui
+164,Foyer rural des Remparts 164,festive,Vieux-Berquin,59232,2023-04-28,POL-HAZ,oui
+165,Jeunesse des Flandres 165,culturelle,Strazeele,59270,2025-02-04,POL-MER,oui
+166,Union des Remparts 166,sportive,Borre,59190,2019-12-07,POL-BAI,oui
+167,Collectif du Mont 167,scolaire,Merville,59660,2019-01-02,POL-HAZ,oui
+168,Collectif du Mont 168,festive,Estaires,59940,2025-07-18,POL-HAZ,oui
+169,Club de la Becque 169,culturelle,Strazeele,59270,2023-08-08,POL-HAZ,oui
+170,Entente du Canal 170,sportive,Vieux-Berquin,59232,2022-10-20,POL-HAZ,non
+171,Jeunesse des Remparts 171,culturelle,Nieppe,59850,2025-09-06,POL-HAZ,oui
+172,Cercle des Remparts 172,festive,Bailleul,59270,2022-01-08,POL-HAZ,oui
+173,Collectif de la Place 173,inconnu,Estaires,59940,2025-03-10,POL-MER,oui
+174,Amicale des Flandres 174,sociale,Steenvoorde,59114,2020-03-28,POL-NIE,non
+175,Association des Moulins 175,culturelle,Bailleul,59270,2020-10-08,POL-BAI,oui
+176,Comite des fetes des Moulins 176,scolaire,Estaires,59940,2024-04-24,POL-EST,oui
+177,Jeunesse du Canal 177,festive,Estaires,59940,2021-11-25,POL-NIE,oui
+178,Les Amis du Mont 178,sociale,Nieppe,59850,2022-05-02,POL-EST,oui
+179,Club du Beffroi 179,sportive,Nieppe,59850,2019-08-03,POL-HAZ,oui
+180,Amicale du Mont 180,sociale,Morbecque,59190,2022-03-29,POL-BAI,oui
+181,Les Amis de la Becque 181,sportive,Bailleul,59270,2021-06-01,POL-HAZ,oui
+182,Club du Beffroi 182,festive,Hondeghem,59190,2022-01-09,POL-MER,oui
+183,Les Amis des Moulins 183,culturelle,Morbecque,59190,2019-01-02,POL-NIE,oui
+184,Amicale du Vieux-Bourg 184,sportive,Caestre,59190,2021-10-03,POL-HAZ,oui
+185,Harmonie de la Becque 185,culturelle,Caestre,59190,2025-06-15,POL-MER,non
+186,Union du Beffroi 186,sportive,Estaires,59940,2021-06-23,POL-HAZ,oui
+187,Foyer rural du Canal 187,sportive,Vieux-Berquin,59232,2024-03-15,POL-NIE,oui
+188,Association de la Place 188,sportive,Morbecque,,2019-04-24,POL-EST,oui
+189,Association de la Place 189,culturelle,Merville,59660,2024-01-26,POL-BAI,oui
+190,Association des Houblons 190,culturelle,Strazeele,59270,2024-02-17,POL-EST,oui
+191,Union du Mont 191,culturelle,Hondeghem,59190,2020-04-29,POL-HAZ,oui
+192,Club du Vieux-Bourg 192,sportive,Hondeghem,59190,2023-02-10,POL-MER,oui
+193,Collectif du Vieux-Bourg 193,sociale,Borre,59190,2021-05-04,POL-BAI,non
+194,Comite des fetes de la Lys 194,sportive,Nieppe,59850,2023-04-03,POL-HAZ,oui
+195,Club du Mont 195,culturelle,Caestre,59190,2023-08-08,POL-BAI,oui
+196,Club de la Becque 196,festive,Steenvoorde,59114,2023-09-12,POL-NIE,oui
+197,Club des Houblons 197,scolaire,Steenvoorde,59114,2022-10-20,POL-HAZ,non
+198,Harmonie de la Lys 198,sportive,Merville,59660,2022-10-03,POL-HAZ,oui
+199,Amicale des Houblons 199,sportive,Merville,59660,2023-02-18,POL-BAI,oui
+200,Entente du Mont 200,culturelle,Vieux-Berquin,59232,2022-08-04,POL-NIE,non
+201,Amicale des Houblons 201,culturelle,Caestre,59190,2025-11-29,POL-NIE,non
+202,Amicale des Moulins 202,sociale,Borre,59190,2026-05-04,POL-NIE,oui
+203,Association de la Place 203,festive,Borre,59190,2023-03-02,POL-EST,oui
+204,Union des Flandres 204,culturelle,Borre,59190,06/04/2026,POL-HAZ,non
+205,Comite des fetes des Remparts 205,festive,Bailleul,59270,2020-11-01,POL-NIE,oui
+206,Association du Mont 206,sociale,Bailleul,59270,2020-11-27,POL-MER,non
+207,Jeunesse de l'Yser 207,sociale,Merville,59660,2023-10-22,POL-MER,non
+208,Comite des fetes des Remparts 208,inconnu,Strazeele,59270,2023-04-23,POL-BAI,oui
+209,Comite des fetes des Flandres 209,sportive,Nieppe,59850,2020-06-26,POL-HAZ,non
+210,Comite des fetes du Vieux-Bourg 210,sociale,Morbecque,59190,2024-09-04,POL-HAZ,oui
